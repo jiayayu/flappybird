@@ -10,3 +10,6 @@ SSH:
 git@github.com:jiayayu/project.git
 
 flappybird小游戏
+
+demo：
+https://jiayayu.github.io/myPages/flappyBird/game.html
